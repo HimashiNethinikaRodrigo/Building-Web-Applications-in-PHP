@@ -6,6 +6,7 @@ Next open the developer mode. (right click and inspect in chrome)
 Then refresh the url again and check whether you get response with 200 status code.
 Fill out the information ask in the graded tool
 
+Example headers:---
 Last Modified:
 E tag:
 Content-length:
