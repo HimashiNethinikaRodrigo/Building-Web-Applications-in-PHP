@@ -1,0 +1,22 @@
+Open the link below.
+
+http://data.pr4e.org/intro-short.txt
+
+Next open the developer mode. (right click and inspect in chrome)
+Then refresh the url again and check whether you get response with 200 status code.
+Fill out the information ask in the graded tool
+
+Last Modified:
+E tag:
+Content-length:
+Cache-control:
+Content-type:
+
+and then submit.
+
+If you cannot see all the headers, then you have to cleat the cache and try again.
+Or you can change the URL with key value pair as follows.
+http://data.pr4e.org/intro-short.txt?x=12345
+
+You have to try until you get 200 status code.
+
