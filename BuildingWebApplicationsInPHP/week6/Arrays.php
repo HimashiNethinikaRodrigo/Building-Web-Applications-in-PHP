@@ -55,3 +55,7 @@
 //    shuffle array into random order
     shuffle($va);
 
+//    split string according to the given delimiter
+    $sentence = "This is a sentence with seven words.";
+    print_r(explode(' ', $sentence));
+
