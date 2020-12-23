@@ -19,7 +19,7 @@
    ## y = 24 x = 13
 
 6. What value will var_dump show that echo will not show?
-   ## Data type
+   ## False
 
 7. What is a correct way to add a comment in PHP?
    ## /* ... */
