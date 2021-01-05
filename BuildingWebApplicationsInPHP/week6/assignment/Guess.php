@@ -8,23 +8,24 @@
     <p>
         <?php
         $guess = 76; // change to your guess in the assignment
-        if (!isset($_GET['guess']))
+        $userGuess = $_GET['guess'];
+        if (!isset($userGuess))
         {
             echo("Missing guess parameter");
         }
-        else if (strlen($_GET['guess']) < 1)
+        else if (strlen($userGuess) < 1)
         {
             echo("Your guess is too short");
         }
-        else if (!is_numeric($_GET['guess']))
+        else if (!is_numeric($userGuess))
         {
             echo("Your guess is not a number");
         }
-        else if ($_GET['guess'] < $guess)
+        else if ($userGuess < $guess)
         {
             echo("Your guess is too low");
         }
-        else if ($_GET['guess'] > $guess)
+        else if ($userGuess > $guess)
         {
             echo("Your guess is too high");
         }
