@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Charles Severance - Broken Rock Paper Scissors</title>
+<title>Himashi Rodrigo - Rock Paper Scissors Game</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
@@ -17,7 +17,7 @@ partially done and serves only as a starting point for the assignment.
 Attempt to go to 
 <a href="game.php">game.php</a> without logging in - it should fail with an error message.
 <p>
-<a href="http://www.wa4e.com/code/rps.zip"
+<a href="https://github.com/HimashiNethinikaRodrigo/Building-Web-Applications-in-PHP-answer-key/tree/main/BuildingWebApplicationsInPHP/week8/assignment"
  target="_blank">Source Code for this Application</a>
 </p>
 </div>

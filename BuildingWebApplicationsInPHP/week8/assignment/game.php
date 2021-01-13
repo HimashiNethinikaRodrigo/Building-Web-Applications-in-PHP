@@ -41,7 +41,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Dr. Chuck's Rock, Paper, Scissors Game</title>
+<title>Himashi Rodrigo's Rock, Paper, Scissors Game</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
