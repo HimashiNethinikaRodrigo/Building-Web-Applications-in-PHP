@@ -14,4 +14,4 @@ In this course, you'll explore the basic structure of a web application, and how
 * Html
 * Cascading Style Sheets (CCS)
 
-![insta like application](https://github.com/HimashiNethinikaRodrigo/Building-Web-Applications-in-PHP-answer-key/blob/main/BuildingWebApplicationsInPHP/certificate.jpeg?raw=true)
+<img src="https://github.com/HimashiNethinikaRodrigo/Building-Web-Applications-in-PHP-answer-key/blob/main/BuildingWebApplicationsInPHP/certificate.jpeg?raw=true" width=700/>
