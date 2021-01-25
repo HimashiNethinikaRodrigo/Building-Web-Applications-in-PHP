@@ -17,4 +17,4 @@ In this course, you'll walk through installation steps for installing a text edi
 
 [Certificate Reference](https://coursera.org/share/2dc47e5cc330a99fd45e1ad4a254f7c1)
 
-<img src ="https://github.com/HimashiNethinikaRodrigo/Building-Web-Applications-in-PHP-answer-key/blob/main/IntroductionToStandardQueryLanguage(SQL)/certificate.JPG?raw=true" width=700/>
+<img src ="https://github.com/HimashiNethinikaRodrigo/Building-Web-Applications-in-PHP-answer-key/blob/main/2_IntroductionToStandardQueryLanguage(SQL)/certificate.JPG?raw=true" width=700/>
