@@ -9,7 +9,7 @@
    ## We make a table that maps the strings in the column to numbers and then use those numbers in the column
 
 4. Which of the following is the label we give a column that the "outside world" uses to look up a particular row?
-   ##
+   ## Logical key
 
 5. What is the label we give to a column that is an integer and used to point to a row in a different table?
    ## Foreign key
@@ -39,7 +39,7 @@
 
 13. Which of the following indexes would be best for fast look up for exact key matches
     but not so good for prefix lookups or sorting?
-    ##
+    ## HASH
 
 14. Why is it a good idea to add "CONSTRAINT FOREIGN KEY" statements when creating database tables? (Check all that apply)
     ## So that MySql knows which columns are foreign keys and which columns are just integers
