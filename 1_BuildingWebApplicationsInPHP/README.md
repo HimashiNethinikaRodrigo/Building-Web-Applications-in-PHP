@@ -16,4 +16,4 @@ In this course, you'll explore the basic structure of a web application, and how
 
 [Certificate Reference](https://coursera.org/share/36c799961d02eb31f0ae1b81eba47c86)
 
-<img src="https://github.com/HimashiNethinikaRodrigo/Building-Web-Applications-in-PHP-answer-key/blob/main/1_BuildingWebApplicationsInPHP/certificate.jpeg?raw=true" width=700/>
+<img src="https://github.com/HimashiNethinikaRodrigo/Algorithms_Standford/blob/master/src/main/edu/course1/certificate.JPG?raw=true" width=700/>
